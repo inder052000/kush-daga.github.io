@@ -13,6 +13,6 @@ Also I am facing a bug in this webpage i created, the bug us that when i open th
 
 Thanks
 Kush Daga (btech COE)(rank-35657)
-hostel H
+Hostel H
 
 PS: Sorry for the typos.
